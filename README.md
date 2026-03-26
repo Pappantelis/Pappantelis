@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pantelis Pappas
+# Pantelis Papadopoulos
 
 **Full-Stack Developer · Greece**
 
