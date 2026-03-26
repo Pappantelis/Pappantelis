@@ -64,18 +64,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![Pantelis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pappantelis&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pappantelis&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 Co-founder at **Anvilith** · Building things that work.
